@@ -17,7 +17,7 @@ Echosort is the final project in the Data Science program. It employs a Convolut
 #### **Usage**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Echo-Sort-ML.git
+   git clone https://github.com/BenBashi/Echo-Sort-ML.git
    ```
 2. Navigate to the repository directory and follow the setup instructions in the `setup.md` file.
 3. Run the training or testing scripts as needed.
